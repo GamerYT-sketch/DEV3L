@@ -1,0 +1,185 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+local Window = Library.CreateLib("BL SCRIPTS HUB", "BloodTheme")
+
+local Tab = Window:NewTab("Pop It Trading")
+
+local Section = Tab:NewSection("Partner Scripts")
+
+Section:NewButton("Xdkentryabordon", "ButtonInfo", function()
+
+loadstring(game:HttpGet('https://pastebin.com/raw/aHEsJe51'))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("ISHIELD", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Pop-It-Trading-ISHIELD-12400"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("TradeScam", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadiehp/UI-/refs/heads/main/Collect%20All%20(Scam)V2"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Fly", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Mobile-fly-script-(Arceus-x)-2042"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Coming Soon", "ButtonInfo", function()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Coming Soon", "ButtonInfo", function()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Coming Soon", "ButtonInfo", function()
+
+    print("Clicked")
+
+end)
+
+local Tab = Window:NewTab("Other Games")
+
+local Section = Tab:NewSection("Different Games")
+
+Section:NewButton("JailBreak", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Jailbreak-Season-25-BEST-OP-UNDETECTED-SCRIPT-SILENT-AIM-ESP-AUTO-ARREST-CAR-MOD-31827"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Bloxfruits", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Blox-Fruits-Forge-Hub-33453"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Dead Rails", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Dead-Rails-Alpha-Aussie-WIRE-vs-DeadRails-34739"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Bedwars", "OP", function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/FREE-KIT-BedWars-Voidware-THE-BEST-SCRIPT-FOR-BEDWARS-34228"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("BladeBall", "OP", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mzkv/LUNAR/refs/heads/main/BladeBall", true))()
+
+    print("Clicked")
+
+end)
+
+local Tab = Window:NewTab("Universal Scripts")
+
+local Section = Tab:NewSection("OP Guis")
+
+Section:NewButton("OP #1", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-FREE-OP-HUB-33246"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("OP #2", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Nex-Hub-6933"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("OP #3", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-AFEM-14048"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Coming Soon #4", "ButtonInfo", function()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Coming Soon #5", "ButtonInfo", function()
+
+    print("Clicked")
+
+end)
+
+local Tab = Window:NewTab("Misc")
+
+local Section = Tab:NewSection("Adjustments")
+
+Section:NewButton("Fly Gui", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Mobile-fly-script-(Arceus-x)-2042"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Walkspeed Gui", "OP", function()
+
+loadstring(game:HttpGet("https://pastebin.com/BAAUW3Vk?hash=uMBsA7RBEDLpNriiULwzHFmGniWHIi2FdM7tOxNMZnfQt8GgL4Aw5CYf7mUvb6k6"))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Jump Gui", "OP", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/mekUsJ6i", true))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Inf Yield", "OP", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/mekUsJ6i", true))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Floating Keyboard", "OP", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt", true))()
+
+    print("Clicked")
+
+end)
